@@ -1,0 +1,14 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "AZURE_TENANT_ID": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+    "AZURE_CLIENT_ID": "148bd421-34cf-4762-b4f3-95066a4d48db",
+    "AZURE_CLIENT_SECRET": "U3e23wOf2qvryb8YrR/u6LPaUQXH6O3O+4ukVfpaUVw=",
+    "AZURE_SUBSCRIPTION_ID": "dd508bc6-4c44-45ed-b7a0-913f6e0be901",
+    "AZURE_STORAGE": "DefaultEndpointsProtocol=https;AccountName=oppocstore;AccountKey=g9yAnrLoEPFEuPlso5B2I1py54Ns+xwO6sdX0UCwUBz1BP4XGZsIflvQDHA4yRmz1OX2JukQRXeyERBuxhAzfA==;EndpointSuffix=core.windows.net",
+    "AZURE_SB_QUEUE_CONNECT": "Endpoint=sb://optumnsg.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=UM/H0G6M1NhYTOD969+Ks6B5XR35DrS81FJbuu6bcks=",
+    "AZURE_SB_QUEUE": "nsgalerts"
+  }
+}
